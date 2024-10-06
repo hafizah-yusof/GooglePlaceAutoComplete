@@ -28,8 +28,8 @@ A simple React Native application that allows users to search for places using G
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/google-place-autocomplete-app.git
-cd GooglePlaceAutocompleteApp
+git clone https://github.com/hafizah-yusof/GooglePlaceAutoComplete.git
+cd GooglePlaceAutoComplete
 ```
 
 ### Install Dependencies
