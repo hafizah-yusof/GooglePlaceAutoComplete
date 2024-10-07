@@ -54,6 +54,8 @@ yarn install
     android:value="YOUR_API_KEY"/>
 ```
 
+- Update the API key in src/redux/searchAction.js
+
 ### Run the App
 - Make sure to rebuild the app after making changes:
 
